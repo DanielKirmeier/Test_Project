@@ -5,4 +5,7 @@
 
 print("hoffentlich klappt der der Dreck :D")
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print(type(print()))
+
+
+
