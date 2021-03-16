@@ -5,7 +5,14 @@
 
 print("hoffentlich klappt der der Dreck :D")
 
-print(type(print()))
+print("hoffentlich klappts niat")
+print("der zweite request")
+print(type(print())
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
+
 
 
 
